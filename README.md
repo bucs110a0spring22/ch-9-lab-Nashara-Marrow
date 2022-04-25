@@ -7,18 +7,18 @@
 Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+ I just created alot of methods and initalize alot of different variables. 
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining: 3/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ No known !! 
 
 ## REFERENCES:
- < List any outside resources used >
+ Liz the TA 
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ I understood everything in this lab YYAAYYY !!
